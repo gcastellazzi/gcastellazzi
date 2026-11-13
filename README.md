@@ -1,6 +1,6 @@
 Associate Professor in Solid and Structural Mechanics at **DICAM, University of Bologna**, and President of [AICO](https://www.aico-compositi.it), the Italian Association of Composites for Civil Engineering Applications.
 
-🌐 [Website](https://gcastellazzi.github.io) · [ORCID](https://orcid.org/0000-0001-5870-5474) · [Google Scholar](https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=34970897800)
+🌐 [Website](https://gcastellazzi.github.io) · [Unibo](https://www.unibo.it/sitoweb/giovanni.castellazzi/en) · [ORCID](https://orcid.org/0000-0001-5870-5474) · [Google Scholar](https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=34970897800)
 
 ### 🔭 Research & code
 
